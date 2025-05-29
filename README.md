@@ -27,4 +27,27 @@ The California housing dataset is sourced from `sklearn.datasets.fetch_californi
 - matplotlib
 - seaborn (optional)
 
+## 🚀 Getting Started
 
+1. Clone the repo:
+   
+   `git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+   cd YOUR_REPO_NAME`
+
+2. Install dependencies:
+    `pip install pandas numpy matplotlib seaborn scikit-learn jupyter`
+
+3. Open the notebook:
+   `jupyter notebook`
+
+## 📈 Model
+A basic linear regression model was trained to predict median house value.
+
+Evaluation metrics used:
+
+Mean Squared Error (MSE)
+
+R-squared score
+
+## 📄 License
+This project is open source and free to use under the MIT License.
